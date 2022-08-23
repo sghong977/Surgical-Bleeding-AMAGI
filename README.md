@@ -1,4 +1,4 @@
-# Amplifying action-context greater: Image segmentation-guided intraoperative active bleeding detection (AMAGI). 
+# Amplifying action-context greater: Image segmentation-guided intraoperative active bleeding detection (AMAGI) 
 
 This repository gives the official implementation of "Amplifying action-context greater: Image segmentation-guided intraoperative active bleeding detection" (MICCAI workshop 2022).
 
